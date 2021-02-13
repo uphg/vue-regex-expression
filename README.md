@@ -1,19 +1,21 @@
-# vue-regex-demo
+# 使用 Vue 实现一个简单的正则验证器
 
-## Project setup
-```
+## 命令
+
+初始化
+
+```sh
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
+本地
+
+```sh
+yarn start
 ```
 
-### Compiles and minifies for production
-```
+打包
+
+```sh
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
